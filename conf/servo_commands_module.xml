@@ -1,0 +1,17 @@
+ <!DOCTYPE module SYSTEM "module.dtd">
+
+ <module name="servo_commands">
+  <doc>
+   <description>
+     Module to receive servo commands
+   </description>
+  </doc>
+  <header>
+   <file name="drive_servos.h"/>
+  </header>
+  
+  <datalink message="SERVO_COMMANDS" fun="drive_servos" />
+  <makefile>
+   <file name="drive_servos.c"/>
+  </makefile>
+ </module>

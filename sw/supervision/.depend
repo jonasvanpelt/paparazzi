@@ -1,0 +1,32 @@
+paparazzicenter.cmo: pc_control_panel.cmo pc_common.cmo pc_aircraft.cmo \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi
+paparazzicenter.cmx: pc_control_panel.cmx pc_common.cmx pc_aircraft.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx
+pc_aircraft.cmo: pc_common.cmo \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/os_calls.cmi \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi
+pc_aircraft.cmx: pc_common.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/os_calls.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx
+pc_common.cmo: \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi
+pc_common.cmx: \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx
+pc_control_panel.cmo: pc_common.cmo \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi
+pc_control_panel.cmx: pc_common.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx

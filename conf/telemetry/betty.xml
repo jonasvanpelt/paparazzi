@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<!--NOTE, THE MAX FREQUENCY FOR A PACKAGE IS THE FEAUENCY AT WHICH THIS TELEMETRY MODULE IS CALLED IN THE CONF FILE-->
+<!DOCTYPE telemetry SYSTEM "telemetry.dtd">
+<telemetry>
+  <process name="Main">
+    <mode name="default" key_press="d">
+    <message name="IMU_ACCEL_RAW" period="0.002"/>
+    <message name="IMU_GYRO_RAW" period="0.002"/>
+    <message name="IMU_MAG_RAW" period="0.002"/>
+    <message name="BARO_RAW" period="0.01"/>
+    <message name="GPS_INT" period="0.25"/>
+      <message name="UART_ERRORS" period="0.2"/>
+	  <message name="ACTUATORS" period="0.02"/>
+    </mode>
+  </process>
+</telemetry>
+
+
+<!--
+OTHER SPEEDS DEFINED IN MODULES
+airspeed ets	10hz
+sysmon			5hz
+
+-->
