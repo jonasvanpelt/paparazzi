@@ -1,81 +1,74 @@
-data.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
-    data.cmi
-data.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
-    data.cmi
+data.cmo: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi data.cmi
+data.cmx: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx data.cmi
 data.cmi:
 diffusion.cmo: stdlib.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
 diffusion.cmx: stdlib.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx
 flightModel.cmo: stdlib.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
     data.cmi flightModel.cmi
 flightModel.cmx: stdlib.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
     data.cmx flightModel.cmi
 flightModel.cmi: stdlib.cmi data.cmi
-gaia.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
-gaia.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx
+gaia.cmo: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
+gaia.cmx: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx
 gps.cmo: stdlib.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/ocaml_tools.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/ocaml_tools.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
     gps.cmi
 gps.cmx: stdlib.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/ocaml_tools.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/ocaml_tools.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
     gps.cmi
-gps.cmi: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi
-hitl.cmo: /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/ubx.cmi \
+gps.cmi: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi
+hitl.cmo: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/ubx.cmi \
     stdlib.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
     gps.cmi flightModel.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/debug.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/debug.cmi \
     data.cmi hitl.cmi
-hitl.cmx: /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/ubx.cmx \
+hitl.cmx: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/ubx.cmx \
     stdlib.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
     gps.cmx flightModel.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/debug.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/debug.cmx \
     data.cmx hitl.cmi
 hitl.cmi: sim.cmi
 sim.cmo: stdlib.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
     gps.cmi flightModel.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi \
     data.cmi sim.cmi
 sim.cmx: stdlib.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
     gps.cmx flightModel.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx \
     data.cmx sim.cmi
 sim.cmi: stdlib.cmi gps.cmi flightModel.cmi data.cmi
 simhitl.cmo: stdlib.cmi sim.cmi hitl.cmi
@@ -83,21 +76,21 @@ simhitl.cmx: stdlib.cmx sim.cmx hitl.cmx
 simsitl.cmo: sitl.cmi sim.cmi
 simsitl.cmx: sitl.cmx sim.cmx
 sitl.cmo: stdlib.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/serial.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/serial.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
     gps.cmi flightModel.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
-    data.cmi sitl.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi data.cmi \
+    sitl.cmi
 sitl.cmx: stdlib.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/serial.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/serial.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
     gps.cmx flightModel.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
-    data.cmx sitl.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx data.cmx \
+    sitl.cmi
 sitl.cmi: sim.cmi
 stdlib.cmo: stdlib.cmi
 stdlib.cmx: stdlib.cmi

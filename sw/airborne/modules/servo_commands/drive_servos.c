@@ -1,3 +1,7 @@
+/*
+ * Author: Jonas Van Pelt
+ * */
+
 //include library for servo commands
 #include "subsystems/actuators/set_servo.h"
 #include "led.h"

@@ -9,9 +9,8 @@
   <header>
    <file name="drive_servos.h"/>
   </header>
-    <!--<periodic fun="test()" period="0.1" />-->
 
-  <datalink message="SERVO_COMMANDS" fun="drive_servos()" />
+  <datalink message="SERVO_COMMANDS" fun="drive_servos()" /><!--jonas: to link incoming message SERVO_COMMANDS with the drive_sensors function -->
  
   <makefile>
    <file name="drive_servos.c"/>

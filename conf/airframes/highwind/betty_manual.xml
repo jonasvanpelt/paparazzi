@@ -233,31 +233,24 @@ use negative when in mirror -->
 
 <!-- end of autopilot -->
 
- <modules main_freq="1000"> <!--frequency of main loop-->
+ <modules main_freq="1000"> <!--jonas: Changed the frequency of the main loop to 1K hz-->
+ 
    <!--load name="vehicle_interface_overo_link.xml"/-->
    <load name="gps_ubx_ucenter.xml"/>
 
-    <load name="airspeed_ets.xml">
+    <load name="airspeed_ets.xml"> <!--jonas: module to use airspeed_ets and send the airspeed messages -->
 
 	<define name="AIRSPEED_ETS_I2C_DEV" value="i2c2" description="change default i2c peripheral"/>
 	<define name="AIRSPEED_ETS_OFFSET" value="-1.6" description="sensor offset (default: 0)"/>
 	<define name="AIRSPEED_ETS_SCALE" value="1.0" description="sensor scale factor (default: 1.8)"/>
 	<define name="AIRSPEED_ETS_START_DELAY" value="5"/>
 	<define name="SENSOR_SYNC_SEND" description="flag to transmit the data as it is acquired"/>
-    <define name="AIRSPEED_ETS_SYNC_SEND"/>	
+    <define name="AIRSPEED_ETS_SYNC_SEND"/>	<!--jonas: flag for sending the airspeed messages  -->
    </load>
    
-   <load name="servo_commands.xml"/>
-   <load name="sys_mon.xml"/>
+   <load name="servo_commands.xml"/> <!--jonas: added a module to receive servo commands, see the module for further information-->
+   <load name="sys_mon.xml"/> <!--jonas: added a module so that Lisa sens system monitoring packages to server-->
 
-<!--
-   <load name="airspeed_ets.xml">
-     <define name="AIRSPEED_ETS_SCALE"   value="1.0"/>
-     <!-/- define name="AIRSPEED_ETS_OFFSET"  value="-1.6"/ -/->
-     <define name="AIRSPEED_ETS_I2C_DEV" value="i2c2"/> <!-/- do only i2c0 and i2c1 exist? -/->
-     <define name="SENSOR_SYNC_SEND"/>
-   </load>
--->
 </modules>
 
   <firmware name="rotorcraft">
@@ -295,9 +288,8 @@ use negative when in mirror -->
     <define name="USE_I2C2"/>
     
 	<subsystem name="telemetry"     type="transparent">
-		<configure name="TELEMETRY_FREQUENCY" value="1000"/>
-		<!--<configure name="PERIODIC_FREQUENCY" value="100"/> if we use this, RC is working-->
-	     <configure name="MODEM_BAUD"  value="B921600"/>
+		<configure name="TELEMETRY_FREQUENCY" value="1000"/> <!--jonas: changed the frequency of the telemetry file to 1K -->
+	     <configure name="MODEM_BAUD"  value="B921600"/><!--jonas: changed baudrate for UART2 to B921600 -->
 	     <configure name="MODEM_PORT"  value="UART2"/>
 	</subsystem>
     

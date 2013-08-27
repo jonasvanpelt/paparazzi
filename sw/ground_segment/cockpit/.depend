@@ -1,237 +1,232 @@
 compass.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
 compass.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx
 editFP.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/xmlEdit.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/xmlEdit.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
     map2d.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/geometry_2d.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/geometry_2d.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
     editFP.cmi
 editFP.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/xmlEdit.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/xmlEdit.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
     map2d.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/geometry_2d.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/geometry_2d.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
     editFP.cmi
 editFP.cmi: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapWaypoints.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapWaypoints.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi
 gcs.cmo: strip.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmi \
     speech.cmi sectors.cmi plugin.cmi particules.cmo papgets.cmi pages.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapIGN.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapGoogle.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapIGN.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapGoogle.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
     map2d.cmi live.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/iGN.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gm.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/iGN.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gm.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
     editFP.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
 gcs.cmx: strip.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmx \
     speech.cmx sectors.cmx plugin.cmx particules.cmx papgets.cmx pages.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapIGN.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapGoogle.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapIGN.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapGoogle.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
     map2d.cmx live.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/iGN.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gm.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/iGN.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gm.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
     editFP.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx
 horizon.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
     horizon.cmi
 horizon.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
     horizon.cmi
 horizon.cmi:
 live.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/xmlEdit.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/xmlEdit.cmi \
     strip.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmi \
     speech.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
     plugin.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmi \
     pages.cmi page_settings.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapWaypoints.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapTrack.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapWaypoints.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapTrack.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
     map2d.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/http.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/http.cmi \
     horizon.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
-    live.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi live.cmi
 live.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/xmlEdit.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/xmlEdit.cmx \
     strip.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/srtm.cmx \
     speech.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
     plugin.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmx \
     pages.cmx page_settings.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapWaypoints.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapTrack.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapWaypoints.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapTrack.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
     map2d.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/http.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/http.cmx \
     horizon.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
-    live.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx live.cmi
 live.cmi: strip.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
     pages.cmi page_settings.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapWaypoints.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapTrack.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapWaypoints.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapTrack.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapFP.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
     horizon.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi
 map2d.cmo: map2d.cmi
 map2d.cmx: map2d.cmi
 map2d.cmi: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi
 page_settings.cmo: saveSettings.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/ocaml_tools.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/ocaml_tools.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
     page_settings.cmi
 page_settings.cmx: saveSettings.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/ocaml_tools.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/ocaml_tools.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
     page_settings.cmi
 page_settings.cmi:
 pages.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
     pages.cmi
 pages.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
     pages.cmi
 pages.cmi:
 papgets.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget_renderer.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget_renderer.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget.cmi \
     live.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/expr_lexer.cmo \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/expr_lexer.cmo \
     papgets.cmi
 papgets.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget_renderer.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/papget.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget_renderer.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget_common.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/papget.cmx \
     live.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/expr_lexer.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/expr_lexer.cmx \
     papgets.cmi
 papgets.cmi:
 particules.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
     live.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi
 particules.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
     live.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx
 plugin.cmo: plugin.cmi
 plugin.cmx: plugin.cmi
 plugin.cmi:
 saveSettings.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/xmlCom.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/editAirframe.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/xmlCom.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/editAirframe.cmi \
     saveSettings.cmi
 saveSettings.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/xmlCom.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/editAirframe.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/xmlCom.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/editAirframe.cmx \
     saveSettings.cmi
 saveSettings.cmi:
 sectors.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
     sectors.cmi
 sectors.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
     sectors.cmi
 sectors.cmi: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/mapCanvas.cmi
 speech.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/os_calls.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/os_calls.cmi \
     speech.cmi
 speech.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/os_calls.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/os_calls.cmx \
     speech.cmi
 speech.cmi:
-strip.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+strip.cmo: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
     strip.cmi
-strip.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+strip.cmx: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/latlong.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/gtk_tools.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
     strip.cmi
-strip.cmi: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi
+strip.cmi: /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi

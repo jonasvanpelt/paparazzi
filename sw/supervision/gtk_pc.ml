@@ -1,6 +1,6 @@
-(* Automatically generated from /tmp/tmp.HDsz1Lmr6D by lablgladecc *)
+(* Automatically generated from /tmp/tmp.KC9zSwqBQc by lablgladecc *)
 
-class window ?(file="/tmp/tmp.HDsz1Lmr6D") ?domain ?autoconnect(*=true*) () =
+class window ?(file="/tmp/tmp.KC9zSwqBQc") ?domain ?autoconnect(*=true*) () =
   let xmldata = Glade.create ~file  ~root:"window" ?domain () in
   object (self)
     inherit Glade.xml ?autoconnect xmldata

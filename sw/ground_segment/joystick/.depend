@@ -1,12 +1,12 @@
 input2ivy.cmo: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/expr_syntax.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/expr_syntax.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmi \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmi
 input2ivy.cmx: \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/expr_syntax.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
-    /home/jonas/Bureaublad/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/pprz.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/extXml.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/expr_syntax.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/env.cmx \
+    /home/jonas/Desktop/highwind/code/paparazzi/sw/lib/ocaml/defivybus.cmx

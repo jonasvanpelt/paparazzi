@@ -1,6 +1,6 @@
-(* Automatically generated from /tmp/tmp.st7TVCxzm6 by lablgladecc *)
+(* Automatically generated from /tmp/tmp.Z3EbwgMBbc by lablgladecc *)
 
-class table_gauge_editor ?(file="/tmp/tmp.st7TVCxzm6") ?domain ?autoconnect(*=true*) () =
+class table_gauge_editor ?(file="/tmp/tmp.Z3EbwgMBbc") ?domain ?autoconnect(*=true*) () =
   let xmldata = Glade.create ~file  ~root:"table_gauge_editor" ?domain () in
   object (self)
     inherit Glade.xml ?autoconnect xmldata
